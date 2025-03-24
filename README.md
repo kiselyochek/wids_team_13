@@ -44,6 +44,8 @@ After merging the dataset, we are able to get info on it:
 
 <img width="874" alt="Screenshot" src="https://github.com/user-attachments/assets/6c102a94-8af0-4faa-ab69-269ff6155c6c" />
 
+As we can see, there is a total of 1213 entries, meaning that there was a total of 1213 participants. Each participant potentially has up to 19928 (excluding ```ADHD_Outcome``` and ```participant_id```) features that can be leveraged to predict their ADHD diagnosis.
+
 ### Data Visualization
 
 Let's build some graphs to visualise the data we will be working with:
