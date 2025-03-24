@@ -40,6 +40,9 @@ After displaying the test data, we have found that all datasets shared a ```part
 
 <img width="895" alt="Screenshot" src="https://github.com/user-attachments/assets/e36faf34-ada7-436e-a7cb-8ea430cae7c3" />
 
+After merging the dataset, we are able to get info on it:
+
+<img width="874" alt="Screenshot" src="https://github.com/user-attachments/assets/6c102a94-8af0-4faa-ab69-269ff6155c6c" />
 
 ### Data Visualization
 
