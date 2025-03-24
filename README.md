@@ -36,9 +36,10 @@ Our team used the provided Kaggle dataset, which includes brain imaging measurem
 
 ### Data Preprocessing
 
+After displaying the test data, we have found that all datasets shared a ```participant_id``` column, confirming that all of the data can be combined into one dataset as each of the columns' values relate to a certain participant in all of the data files. 
+
 <img width="895" alt="Screenshot" src="https://github.com/user-attachments/assets/e36faf34-ada7-436e-a7cb-8ea430cae7c3" />
 
-After displaying the test data, we have found that all datasets shared a ```participant_id``` column, confirming that all of the data can be combined into one dataset as each of the columns' values relate to a certain participant in all of the data files. 
 
 ### Data Visualization
 
