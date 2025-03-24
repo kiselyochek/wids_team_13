@@ -34,6 +34,8 @@ This model has a lot of potential that can be leveraged to advance women's brain
 
 Our team used the provided Kaggle dataset, which includes brain imaging measurements, demographic details, and neuropsychological assessments. As this dataset has been presented in a form of several separate Excel tables, it needed to be converted to Pandas DataFrame format for further exploration and feature scaling.
 
+### Data Preprocessing
+
 <img width="895" alt="Screenshot" src="https://github.com/user-attachments/assets/e36faf34-ada7-436e-a7cb-8ea430cae7c3" />
 
 After displaying the test data, we have found that all datasets shared a ```participant_id``` column, confirming that all of the data can be combined into one dataset as each of the columns' values relate to a certain participant in all of the data files. 
